@@ -1,0 +1,84 @@
+Script started on Fri 19 Oct 2018 07:20:20 AM DST
+]0;kelleych@DESKTOP-RQDVU01: ~/CSS490/program2e[01;32mkelleych@DESKTOP-RQDVU01[00m:[01;34m~/CSS490/program2e[00m$ java 0[K-jar p[KProgram2.jav[Kr
+Enter city name (for city zip press 'z'): 
+seattle
+Enter country name or country Code (press Enter if not using country): 
+United States
+Press 'c' for current weather, 'f' for 5 day forecast
+c
+------Weather Report for Seattle,US--------------
+Fri Oct 19 14:20:43 GMT 2018
+
+Current Temperature: 42.06 Fahrenheit (may be in range: 35.60 to 46.40 F)
+
+Current Conditions: fog and mist and light intensity drizzle
+
+Current Humidity: 93.0%
+Current Cloud Coverage: 90.0%
+Current Wind Speed: 1.5 meters/second
+Current Wind Direction: 130.0 degrees
+
+Would you like to get the weather for another city? y/n
+y
+Enter city name (for city zip press 'z'): 
+z
+Enter zip code: 
+105-0000
+Enter country name or country code(required for zip codes not in the US): 
+Japan
+Press 'c' for current weather, 'f' for 5 day forecast
+f
+-------Weather Forecast For Minato,JP----------
+Fri Oct 19 14:21:26 GMT 2018
+
+1 day forecast: 
+Average Temp: 59.09 F (low: 58.21 F -- high: 60.88 F)
+Humidity: 100.0%
+Conditions: light rain
+
+2 day forecast: 
+Average Temp: 60.35 F (low: 57.38 F -- high: 65.05 F)
+Humidity: 99.0%
+Conditions: clear sky
+
+3 day forecast: 
+Average Temp: 59.86 F (low: 54.92 F -- high: 66.03 F)
+Humidity: 100.0%
+Conditions: few clouds
+
+4 day forecast: 
+Average Temp: 60.96 F (low: 54.77 F -- high: 68.40 F)
+Humidity: 96.0%
+Conditions: broken clouds
+
+5 day forecast: 
+Average Temp: 63.73 F (low: 61.64 F -- high: 65.59 F)
+Humidity: 100.0%
+Conditions: moderate rain
+
+Would you like to get the weather for another city? y/n
+y
+Enter city name (for city zip press 'z'): 
+Berlin
+Enter country name or country Code (press Enter if not using country): 
+Germany
+Press 'c' for current weather, 'f' for 5 day forecast
+c
+------Weather Report for Berlin,DE--------------
+Fri Oct 19 14:21:48 GMT 2018
+
+Current Temperature: 58.12 Fahrenheit (may be in range: 57.20 to 59.00 F)
+
+Current Conditions: clear sky
+
+Current Humidity: 54.0%
+Current Cloud Coverage: 0.0%
+Current Wind Speed: 2.1 meters/second
+Current Wind Direction: 300.0 degrees
+
+Would you like to get the weather for another city? y/n
+n
+]0;kelleych@DESKTOP-RQDVU01: ~/CSS490/program2e[01;32mkelleych@DESKTOP-RQDVU01[00m:[01;34m~/CSS490/program2e[00m$ exit
+exit
+
+Script done on Fri 19 Oct 2018 07:22:01 AM DST
